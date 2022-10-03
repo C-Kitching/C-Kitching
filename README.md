@@ -12,10 +12,10 @@ and C++, to test these models against analytical solutions and real world empiri
 E-mail:   
 christopher.kitching@postgrad.manchester.ac.uk
 
-Kaggle:
+Kaggle:  
 https://www.kaggle.com/ckitching
 
-HackerRank:
+HackerRank:  
 https://www.hackerrank.com/C_Kitching
 
 <!---
