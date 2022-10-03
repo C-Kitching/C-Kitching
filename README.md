@@ -9,8 +9,14 @@ My current research is in the field of linguistic typology where I model the evo
 building mathematical models that replicate the real-world dynamics of languages evolving and interacting with each other. I then build simulations, using Python 
 and C++, to test these models against analytical solutions and real world empirical data. 
 
-E-mails:   
+E-mail:   
 christopher.kitching@postgrad.manchester.ac.uk
+
+Kaggle:
+https://www.kaggle.com/ckitching
+
+HackerRank:
+https://www.hackerrank.com/C_Kitching
 
 <!---
 C-Kitching/C-Kitching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
