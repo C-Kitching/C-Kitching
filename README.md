@@ -18,8 +18,11 @@ https://www.kaggle.com/ckitching
 HackerRank:  
 https://www.hackerrank.com/C_Kitching
 
-LeetCode:
+LeetCode:  
 https://leetcode.com/C-Kitching/
+
+LinkedIn:  
+https://www.linkedin.com/in/christopher-kitching/
 
 <!---
 C-Kitching/C-Kitching is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
