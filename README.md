@@ -10,7 +10,7 @@ building mathematical models that replicate the real-world dynamics of languages
 and C++, to test these models against analytical solutions and real world empirical data. 
 
 E-mail:   
-christopher.kitching@postgrad.manchester.ac.uk
+christopher.kitching@manchester.ac.uk
 
 Kaggle:  
 https://www.kaggle.com/ckitching
