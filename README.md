@@ -12,6 +12,9 @@ and C++, to test these models against analytical solutions and real world empiri
 E-mail:   
 christopher.kitching@manchester.ac.uk
 
+HackerRank:
+https://www.hackerrank.com/C_Kitching
+
 LeetCode:  
 https://leetcode.com/C-Kitching/
 
