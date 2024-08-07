@@ -3,25 +3,13 @@ Hi, my name is Chris 👋
 I'm a 3rd year PhD student with the complex systems and statistical physics group at the University of Manchester.  
 
 Our interests focus on the application of techniques from statistical physics and non-linear dynamics to study complex systems: a system composed of many components 
-that may interact with each other, examples include agents in a financial market, organisms in an ecosystem or diseases in a population, to name a few.
+that may interact with each other. Currently I am working on agent based models in linguistics and evolutionary game theory
 
-One aspect of my current research is in the field of linguistic typology where I model the evolution of language features to learn more about languages. Most of the work involves 
-building mathematical models that replicate the real-world dynamics of languages evolving and interacting with each other. I then build simulations, using Python 
-and C++, to test these models against analytical solutions and real world empirical data. 
-
-Alongisde this I research evolutionary game theory models, which is application of game theory to biological populations. 
+Google Scholar:
+https://scholar.google.com/citations?user=DlF219cAAAAJ&hl=en
 
 E-mail:   
 christopher.kitching@manchester.ac.uk
-
-HackerRank:  
-https://www.hackerrank.com/C_Kitching
-
-LeetCode:  
-https://leetcode.com/C-Kitching/
-
-Kaggle:  
-https://www.kaggle.com/ckitching
 
 LinkedIn:  
 https://www.linkedin.com/in/christopher-kitching/
