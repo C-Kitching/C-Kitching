@@ -5,7 +5,7 @@ I'm a 3rd year PhD student with the complex systems and statistical physics grou
 Our interests focus on the application of techniques from statistical physics and non-linear dynamics to study complex systems: a system composed of many components 
 that may interact with each other. Currently I am working on agent based models in linguistics and evolutionary game theory
 
-Google Scholar:
+Google Scholar:  
 https://scholar.google.com/citations?user=DlF219cAAAAJ&hl=en
 
 E-mail:   
